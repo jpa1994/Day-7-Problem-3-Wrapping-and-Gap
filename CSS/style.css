@@ -1,0 +1,6 @@
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    background-color: blanchedalmond;
+}
