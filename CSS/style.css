@@ -1,6 +1,12 @@
 .flexContainer {
     display: flex;
     flex-wrap: wrap;
+    width: 400px;
     gap: 1rem;
     background-color: blanchedalmond;
+}
+
+.flexItem {
+    background-color: azure;
+    padding: 10px;
 }
